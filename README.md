@@ -6,7 +6,7 @@
 
 ## `Deploy`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ztakeda/ChizuruBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ztakeda/ElainaKu)
 
 <p align="center">
 <a href="#"><img title="elaina-md" src="https://img.shields.io/badge/-Elaina--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
